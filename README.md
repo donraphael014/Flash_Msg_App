@@ -1,8 +1,8 @@
 Flash Msg - Application de Chat en Temps Réel
-Présentation
+1. Présentation
 Flash Msg est une plateforme de messagerie instantanée développée avec Spring Boot et la technologie WebSocket, permettant aux utilisateurs d'échanger des messages en direct.
 
-Fonctionnalités principales
+2. Fonctionnalités principales
 
 Envoi et réception de messages instantanés entre utilisateurs
 
@@ -10,9 +10,9 @@ Notification des connexions et déconnexions des participants
 
 Interface utilisateur épurée et facile à prendre en main
 
-Technologies utilisées
+3. Technologies utilisées
 
-Côté serveur :
+3.1. Côté serveur :
 
 Java 21 (version LTS)
 
@@ -26,7 +26,7 @@ Base de données H2 (stockage temporaire)
 
 Maven (gestionnaire de dépendances)
 
-Côté client :
+3.2. Côté client :
 
 Thymeleaf (génération des pages dynamiques)
 
@@ -42,16 +42,16 @@ Java Development Kit (JDK) version 21 ou supérieure
 
 Maven 3.2 ou version plus récente
 
-Étapes à suivre :
+4. Étapes à suivre :
 
-Récupération du code source
+- Récupération du code source
 
-bash
+- bash
 git clone https://github.com/codingwitharmand/chat-app.git
 Accès au répertoire du projet
 
 bash
-cd chat-app
+cd FlashMsg
 Démarrage de l'application
 
 bash
