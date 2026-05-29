@@ -47,7 +47,7 @@ Maven 3.2 ou version plus récente
 - Récupération du code source
 
 - bash
-git clone https://github.com/codingwitharmand/chat-app.git
+git clone https://github.com/donraphael014/Flash_Msg_App.git
 Accès au répertoire du projet
 
 bash
